@@ -8,3 +8,4 @@
 
 ## Demo
 - Live Demo [Link](http://8bit-mario.surge.sh/)
+- jsFiddle [Link](http://jsfiddle.net/862ydthb/)
